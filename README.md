@@ -1,4 +1,4 @@
-# iOS_Career_Starter_Camp
+# iOS Career Starter Camp
 
 야곰의 iOS 커리어 스타터 캠프 
 
