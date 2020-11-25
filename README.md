@@ -1,6 +1,6 @@
-# iOS Career Starter Camp
+# iOS Career Starter Camp - 1st
 
-야곰의 iOS 커리어 스타터 캠프 
+야곰의 iOS 커리어 스타터 캠프 1기에 참여하며 배운 내용을 정리하는 저장소
 
 - 1기 캠퍼 Jacob
 
