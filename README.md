@@ -10,7 +10,7 @@
 
 ### 은행 매니저
 
-- GitHub
+[![Repository Badge](http://img.shields.io/badge/-Repository-black?style=flat-square&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
 
 ## Check List
 
