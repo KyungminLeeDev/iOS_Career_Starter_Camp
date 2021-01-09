@@ -8,9 +8,22 @@
 
 ## Projects
 
-### 은행 매니저
+### 1. 묵찌빠 게임
 
+### 2. 웹 브라우저
+
+### 3. 쥬스 메이커
+
+### 4. 회원가입 화면
+
+### 5. 계산기
+
+### 6. 만국박람회
+
+### 7. 은행 매니저
 [![Repository Badge](http://img.shields.io/badge/-Repository-black?style=flat-square&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
+
+
 
 ## Check List
 
