@@ -14,14 +14,14 @@
 
 ### 3. 쥬스 메이커
 
-### 4. 회원가입 화면 [![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat-square&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
+### 4. 회원가입 화면 [![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=for-the-badge&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
 
 ### 5. 계산기
 
 ### 6. 만국박람회
 
 ### 7. 은행 매니저
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat-square&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=for-the-badge&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
 
 
 
