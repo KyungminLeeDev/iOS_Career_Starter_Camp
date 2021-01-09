@@ -1,8 +1,16 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungminLeeDev%2FiOS_Career_Starter_Camp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # iOS Career Starter Camp - 1기
 
 야곰의 iOS 커리어 스타터 캠프 1기에 참여하며 배운 내용을 정리하는 저장소
 
 - 1기 캠퍼 Jacob
+
+## Projects
+
+### 은행 매니저
+
+- GitHub
 
 ## Check List
 
