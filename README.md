@@ -21,7 +21,7 @@
 ### 6. 만국박람회
 
 ### 7. 은행 매니저
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=for-the-badge&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
 
 
 
