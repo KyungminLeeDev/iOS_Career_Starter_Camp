@@ -52,6 +52,7 @@
 | 01.15 금 |                                | X         | X / O플젝 |
 | 01.18 월 | HTTP와 HTTPS                   | O         | O         |
 | 01.25 월 | Collection View                | O         | O         |
+| 01.26 화 |                                | O         | O         |
 
 
 ## 참고 링크
