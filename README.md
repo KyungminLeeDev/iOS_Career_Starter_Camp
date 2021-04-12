@@ -88,7 +88,7 @@ Date          | Keyword
 2021.01.18 월 | TIL, HTTP와 HTTPS
 2021.01.25 월 | TIL, Collection View
 2021.01.26 화 | TIL   
-2021.04 Week3 | 프로젝트 관리 앱 (클라이언트) 3주차
+`2021.04 Week3` | 프로젝트 관리 앱 (클라이언트) 3주차
 2021.04.12 월 | [TIL](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/)
 
 ## 참고 링크
