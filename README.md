@@ -14,13 +14,16 @@
 
 ### 3. 쥬스 메이커
 
-### 4. 회원가입 화면 [![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=for-the-badge&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
+### 4. 회원가입 화면 
+
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-signup-flow)
 
 ### 5. 계산기
 
 ### 6. 만국박람회
 
 ### 7. 은행 매니저
+
 [![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
 
 
@@ -54,6 +57,39 @@
 | 01.25 월 | Collection View                | O         | O         |
 | 01.26 화 |                                | O         | O         |
 
+## Timeline
+
+Date          | Keyword                           
+:------       | :----------------------------- 
+2020.12 Week1 |
+2020.11.30 월 | TIL, UML
+2020.12.01 화 | TIL
+2020.12.02 수 | TIL, SOLID
+2020.12.03 목 | TIL
+2020.12.04 금 | TWL
+2020.12 Week2 |
+2020.12.07 월 | TIL, 오토레이아웃
+2020.12.08 화 | TIL
+2020.12.09 수 | TIL
+2020.12.10 목 | TIL, Stack/Queue/Linked-list
+2020.12.11 금 | TIL
+2020.12.14 월 | TIL, Unit Test, TDD
+2021.01 Week1 |
+2021.01.04 월 | TIL, 운영체제와 데이터베이스
+2021.01.05 화 | TIL
+2021.01.06 목 | TIL, Concurrency Programming
+2021.01.07 금 | TIL
+2021.01 Week2 |
+2021.01.11 월 | TIL, 메모리 구조와 ARC
+2021.01.12 화 | TIL
+2021.01.14 목 | TIL, iOS Application Life Cycle
+2021.01.15 금 | TIL
+2021.01 Week3 |
+2021.01.18 월 | TIL, HTTP와 HTTPS
+2021.01.25 월 | TIL, Collection View
+2021.01.26 화 | TIL   
+2021.04 Week3 | 프로젝트 관리 앱 (클라이언트) 3주차
+2021.04.12 월 | [TIL](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/)
 
 ## 참고 링크
 
