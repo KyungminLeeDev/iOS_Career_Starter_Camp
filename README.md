@@ -62,34 +62,36 @@
 Date          | Keyword                           
 :------       | :----------------------------- 
 2020.12 Week1 |
-2020.11.30 월 | TIL, UML
-2020.12.01 화 | TIL
-2020.12.02 수 | TIL, SOLID
-2020.12.03 목 | TIL
-2020.12.04 금 | TWL
+2020.11.30 월 | UML
+2020.12.01 화 |
+2020.12.02 수 | SOLID
+2020.12.03 목 |
+2020.12.04 금 |
 2020.12 Week2 |
-2020.12.07 월 | TIL, 오토레이아웃
-2020.12.08 화 | TIL
-2020.12.09 수 | TIL
-2020.12.10 목 | TIL, Stack/Queue/Linked-list
-2020.12.11 금 | TIL
-2020.12.14 월 | TIL, Unit Test, TDD
+2020.12.07 월 | 오토레이아웃
+2020.12.08 화 |
+2020.12.09 수 |
+2020.12.10 목 | Stack/Queue/Linked-list
+2020.12.11 금 |
+2020.12.14 월 | Unit Test, TDD
 2021.01 Week1 |
-2021.01.04 월 | TIL, 운영체제와 데이터베이스
-2021.01.05 화 | TIL
-2021.01.06 목 | TIL, Concurrency Programming
-2021.01.07 금 | TIL
+2021.01.04 월 | 운영체제와 데이터베이스
+2021.01.05 화 |
+2021.01.06 목 | Concurrency Programming
+2021.01.07 금 |
 2021.01 Week2 |
-2021.01.11 월 | TIL, 메모리 구조와 ARC
-2021.01.12 화 | TIL
-2021.01.14 목 | TIL, iOS Application Life Cycle
-2021.01.15 금 | TIL
+2021.01.11 월 | 메모리 구조와 ARC
+2021.01.12 화 |
+2021.01.14 목 | iOS Application Life Cycle
+2021.01.15 금 |
 2021.01 Week3 |
-2021.01.18 월 | TIL, HTTP와 HTTPS
-2021.01.25 월 | TIL, Collection View
-2021.01.26 화 | TIL   
-`2021.04 Week3` | 프로젝트 관리 앱 (클라이언트) 3주차
-2021.04.12 월 | [TIL](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/)
+2021.01.18 월 | HTTP와 HTTPS
+2021.01.25 월 | Collection View
+2021.01.26 화 | 
+2021.04 Week3 | 프로젝트 관리 앱 (클라이언트) 3주차
+2021.04.12 월 [TIL](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) | 
+2021.04.13 화 [TIL](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) | 알쓸신잡: 6개월 전의 나에게
+2021.04.14 수 [TIL](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) | SwiftUI
 
 ## 참고 링크
 
