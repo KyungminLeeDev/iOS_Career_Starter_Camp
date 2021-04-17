@@ -106,8 +106,6 @@ Date          | Keyword
                    [수](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) 
                    [목](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) 
                    [금](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) 
-                   [토] 
-                   [일]
 | **2021.04.W3** | 프로젝트 관리 앱 (클라) 3주차
 |        `Topic` | SwiftUI, RxSwift
 |          `TIL` | 월 화 수 목 금 토 일
