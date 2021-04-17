@@ -97,17 +97,16 @@ Date          | Keyword
 
 ## Table Test
 
-Week       | Contents
-:--------- | :-------- 
-2021.04.W2 | `Project` 프로젝트 관리 앱 (클라) 2주차
-           | `TIL` 월 화 수 목 금 
-           | AutoLayout Advanced, GCD
-2021.04.W3 | `Project` 프로젝트 관리 앱 (클라) 3주차
-           | `TIL` 월 화 수 목 금 
-           | SwiftUI, RxSwift
-2021.04.W4 | `Project` 소켓 1주차 
-           | `TIL` 월 화 수 목 금
-
+| Week       | Contents
+| ---------: | :-------- 
+| 2021.04.W2 | 프로젝트 관리 앱 (클라) 2주차
+|        TIL | 월 화 수 목 금 
+|      Topic | AutoLayout Advanced, GCD
+| 2021.04.W3 | 프로젝트 관리 앱 (클라) 3주차
+|      `TIL` | 월 화 수 목 금 
+|    `Topic` | SwiftUI, RxSwift
+| 2021.04.W4 | 소켓 1주차 
+|            | 월 화 수 목 금
 
 ## 참고 링크
 
