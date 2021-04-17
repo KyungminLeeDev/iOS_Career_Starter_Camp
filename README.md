@@ -95,6 +95,16 @@ Date          | Keyword
 2021.04.15 목 [TIL](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) | RxSwift
 2021.04.16 금 [TIL](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210416/) | 
 
+## Table Test
+
+Week          | what I do |
+:------------ | :-------- |
+2021.04 Week3 | 프로젝트 관리 앱 (클라이언트) 3주차 <\br> 
+                TIL 월 화 수 목 금
+2021.04 Week4 | 소켓 1주차 <\br> 
+                TIL 월 화 수 목 금
+
+
 ## 참고 링크
 
 ### Git 
