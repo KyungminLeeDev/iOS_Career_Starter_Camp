@@ -97,18 +97,17 @@ Date          | Keyword
 
 ## Table Test
 
-| Week           | Contents  |
-| -------------: | :-------- |
-| **2021.04.W2** | 프로젝트 관리 앱 (클라) 2주차 |
-|          Topic | AutoLayout Advanced, GCD |
-|            TIL | [월](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) 
-                   [화](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) 
-                   [수](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) 
-                   [목](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) 
-                   [금](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) |
-| **2021.04.W3** | 프로젝트 관리 앱 (클라) 3주차 |
-|        `Topic` | SwiftUI, RxSwift |
-|          `TIL` | 월 화 수 목 금 토 일 |
+| Week                  | Contents  |
+| --------------------: | :-------- |
+| **2021.04.W2(05~11)** | 프로젝트 관리 앱 (클라) 2주차 |
+|                 Topic | AutoLayout Advanced, GCD |
+|                   TIL | 월 화 수 목 금 |
+| **2021.04.W3(12~18)** | 프로젝트 관리 앱 (클라) 3주차 |
+|               `Topic` | SwiftUI, RxSwift |
+|                 `TIL` | [월](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) [화](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) [수](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) [목](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) [금](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) |
+| **2021.04.W4(19~25)** | 소켓 통신 1주차  |
+|                 Topic | 소켓 |
+|                   TIL | 월 화 수 목 금 |
 
 
 ## 참고 링크
