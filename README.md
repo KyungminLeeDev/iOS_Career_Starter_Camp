@@ -107,7 +107,7 @@ Date          | Keyword
 |                   TIL | [월](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) [화](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) [수](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) [목](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) [금](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) |
 | **2021.04.19~25 (W4)** | 내손은 금손 앱 (CoreML) 1주차  |
 |                 Topic | 소켓 |
-|                   TIL | [월](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210419/) [화]((https://kyungminleedev.github.io/til/iOSCamp-TIL-20210420/)) [수] [목] [금] |
+|                   TIL | [월](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210419/) [화](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210420/) [수] [목] [금] |
 
 
 ## 참고 링크
