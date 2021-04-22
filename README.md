@@ -28,35 +28,6 @@
 
 
 
-## Check List
-
-| Date     | 강의                           | TIL/TWL   | 회고/주간 | 
-| :------: | :----------------------------- | :-------- | :-------  |
-| 2020.12월                                                      ||||
-| 11.30 월 | UML                            | O         | X         |
-| 12.01 화 | -                              | O         | X         |
-| 12.02 수 | SOLID                          | O         | O         |
-| 12.03 목 | -                              | O         | O         |
-| 12.04 금 | -                              | X / O     | O / O     |
-| 12.07 월 | 오토레이아웃                   | X         | X         |
-| 12.08 화 | -                              | X         | X         |
-| 12.09 수 | -                              | X         | X         |
-| 12.10 목 | Stack/Queue/Linked-list        | O         | O         |
-| 12.11 금 | -                              | X / X     | X / X     |
-| 12.14 월 | Unit Test, TDD                 | X         | X         |
-| 2021.01월                                                      ||||
-| 01.04 월 | 운영체제와 데이터베이스        | O         | O         |
-| 01.05 화 |                                | X         | O         |
-| 01.06 목 | Concurrency Programming        | O         | O         |
-| 01.07 금 |                                | X / O     | O / O     |
-| 01.11 월 | 메모리 구조와 ARC              | O         | O         |
-| 01.12 화 |                                | X         | X         |
-| 01.14 목 | iOS Application Life Cycle     | X         | X         |
-| 01.15 금 |                                | X         | X / O플젝 |
-| 01.18 월 | HTTP와 HTTPS                   | O         | O         |
-| 01.25 월 | Collection View                | O         | O         |
-| 01.26 화 |                                | O         | O         |
-
 ## Timeline
 
 | Week                  | Contents  |
@@ -87,13 +58,38 @@
 |                   TIL | [월](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210419/) [화](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210420/) 수 [목](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210422/) 금 |
 
 
+## Check List (참고용 곧 삭제예정)
+
+| Date     | 강의                           | TIL/TWL   | 회고/주간 | 
+| :------: | :----------------------------- | :-------- | :-------  |
+| 2020.12월                                                      ||||
+| 11.30 월 | UML                            | O         | X         |
+| 12.01 화 | -                              | O         | X         |
+| 12.02 수 | SOLID                          | O         | O         |
+| 12.03 목 | -                              | O         | O         |
+| 12.04 금 | -                              | X / O     | O / O     |
+| 12.07 월 | 오토레이아웃                   | X         | X         |
+| 12.08 화 | -                              | X         | X         |
+| 12.09 수 | -                              | X         | X         |
+| 12.10 목 | Stack/Queue/Linked-list        | O         | O         |
+| 12.11 금 | -                              | X / X     | X / X     |
+| 12.14 월 | Unit Test, TDD                 | X         | X         |
+| 2021.01월                                                      ||||
+| 01.04 월 | 운영체제와 데이터베이스        | O         | O         |
+| 01.05 화 |                                | X         | O         |
+| 01.06 목 | Concurrency Programming        | O         | O         |
+| 01.07 금 |                                | X / O     | O / O     |
+| 01.11 월 | 메모리 구조와 ARC              | O         | O         |
+| 01.12 화 |                                | X         | X         |
+| 01.14 목 | iOS Application Life Cycle     | X         | X         |
+| 01.15 금 |                                | X         | X / O플젝 |
+| 01.18 월 | HTTP와 HTTPS                   | O         | O         |
+| 01.25 월 | Collection View                | O         | O         |
+| 01.26 화 |                                | O         | O         |
+
 ## 참고 링크
 
 ### Git 
 
 - [좋은 git 커밋 메시지를 작성하기 위한 8가지 약속](https://djkeh.github.io/articles/How-to-write-a-git-commit-message-kor/)
     - 커밋 메시지 규칙, 이슈 번호 붙이기, 커밋 메시지로 이슈 자동 종료 하기
-
-## Plent UML Test
-
-![puml test](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/KyungminLeeDev/iOS_Career_Starter_Camp/main/Test/PlantUML/test.puml)
