@@ -32,23 +32,23 @@
 
 | Week                   | Contents                         |
 | ---------------------: | :------------------------------- |
-| **2021.03.W1 (01~07)** | **TIL** `월` `화` `수` `목` `금` 동기화 메모장 3주차 |
+| **2021.03.W1 (01~07)** | **TIL** `월` `화` `수` `목` `금` **동기화 메모장 3주차** |
 |                  Topic | [`Understanding Swift Performance with 재르시`](https://kyungminleedev.github.io/notes/iOS-Lecture-UnderstandingSwiftPerformance-Summary/), UIView Animation |
-| **2021.03.W2 (08~14)** | **TIL** `월` `화` `수` `목` `금` 프로젝트 관리 앱 (서버) 1주차 |
+| **2021.03.W2 (08~14)** | **TIL** `월` `화` `수` `목` `금` **프로젝트 관리 앱 (서버)** 1주차 |
 |                  Topic | `서버/클라이언트/DB의 동작 관계 역할체험` [`REST API wtih 노루`](https://kyungminleedev.github.io/notes/iOS-Lecture-RestAPI-Summary/) |
-| **2021.03.W3 (15~21)** | **TIL** `월` `화` `수` `목` `금` 프로젝트 관리 앱 (서버) 2주차 |
+| **2021.03.W3 (15~21)** | **TIL** `월` `화` `수` `목` `금` **프로젝트 관리 앱 (서버)** 2주차 |
 |                  Topic | [`View Drawing Cycle`](https://kyungminleedev.github.io/notes/iOS-ViewDrawingCycle/) `Notification` 
-| **2021.03.W4 (22~28)** | **TIL** `월` `화` `수` `목` `금` 프로젝트 관리 앱 (서버) 3주차 |
+| **2021.03.W4 (22~28)** | **TIL** `월` `화` `수` `목` `금` **프로젝트 관리 앱 (서버)** 3주차 |
 |                  Topic | `OAuth` `Localization` |
-| **2021.03.W1 (29~04)** | **TIL** `월` `화` `수` `목` `금` 프로젝트 관리 앱 (클라) 1주차 |
+| **2021.03.W1 (29~04)** | **TIL** `월` `화` `수` `목` `금` **프로젝트 관리 앱 (클라)** 1주차 |
 |                  Topic | `Core Graphics` `Core Animation` |
-| **2021.04.W2 (05~11)** | **TIL** `월` `화` `수` `목` `금` 프로젝트 관리 앱 (클라) 2주차 |
+| **2021.04.W2 (05~11)** | **TIL** `월` `화` `수` `목` `금` **프로젝트 관리 앱 (클라)** 2주차 |
 |                  Topic | `AutoLayout Advanced` `GCD` |
-| **2021.04.W3 (12~18)** | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) [`수`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) 프로젝트 관리 앱 (클라) 3주차 |
+| **2021.04.W3 (12~18)** | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) [`수`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) **프로젝트 관리 앱 (클라)** 3주차 |
 |                  Topic | `SwiftUI` `RxSwift` `알쓸신잡: 6개월 전의 나에게 (비공개)` |
-| **2021.04.W4 (19~25)** | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210419/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210420/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210422/) `금` 내손은 금손 (CoreML) 1주차 |
+| **2021.04.W4 (19~25)** | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210419/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210420/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210422/) `금` **내손은 금손 (CoreML)** 1주차 |
 |                  Topic | `소켓` `Xcode 설정` |
-| **2021.04.W5 (26~02)** | **TIL** `월` `화` `수` `목` `금` 내손은 금손 (CoreML) 2주차 |
+| **2021.04.W5 (26~02)** | **TIL** `월` `화` `수` `목` `금` **내손은 금손 (CoreML)** 2주차 |
 |                  Topic | `Design Patterns` [`알쓸신잡: 성장하는 iOS 개발자 되기`](https://kyungminleedev.github.io/notes/iOSCamp-Webinar-BeGrowingDeveloper/) |
 
 
