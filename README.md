@@ -22,7 +22,7 @@
 
 ### 4. 회원가입 화면 
 > 개인정보를 입력받아 회원가입하는 절차  
-> [`Repository`](https://github.com/KyungminLeeDev/ios-signup-flow) `개인` `팀플` `진척도😀😀😀😀`
+> [`Repository`](https://github.com/KyungminLeeDev/ios-signup-flow) `팀플` `진척도😀😀😀😀`
 
 ### 5. 계산기
 > 10진수/2진수 계산기 앱  
