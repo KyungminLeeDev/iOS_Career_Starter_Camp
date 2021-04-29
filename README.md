@@ -16,63 +16,63 @@
 ### 2. 웹 브라우저
 > WebKit으로 만든 웹 브라우저
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-web-browser)
 
 ### 3. 쥬스 메이커 (UI 미구현)
-> 쥬스 판매와 과일 재고관리
-`진척도` 😀😭😭
+> 쥬스 판매와 과일 재고관리  
+**진척도** `😀😭😭`
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-juice-maker)
 
 ### 4. 회원가입 화면 
 > 개인정보를 입력받아서 회원가입하는 절차
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-signup-flow)
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-signup-flow)
 
 ### 5. 계산기 (아예 진행 못함)
 > 10진수/2진수 계산기 앱
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-calculator-app)
 
 ### 6. 만국박람회 (UI 미구현)
 > 만국박람회 출품작 리스트
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-exposition-universelle)
 
 ### 7. 은행 창구 매니저 (UI 미구현)
 > 은행 창구 운영 시뮬레이터
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)](https://github.com/KyungminLeeDev/ios-bank-manager)
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-bank-manager)
 
 ### 8. 날씨 정보 (UI 미구현)
 > 날씨 정보 API로 현재 위치의 날씨 예보
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-weather-forecast)
 
 ### 9. 오픈 마켓 (UI 미완성)
 > 마켓에 등록된 상품을 확인하고 내 상품도 등록
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-open-market)
 
 ### 10. 동기화 메모장
 > 메모를 작성하고 Core Data에 저장 및 드랍박스 동기화
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-cloud-notes)
 
 ### 11. 프로젝트 관리 앱 (서버)
 > 프로젝트 관리 앱과 통신할 서버 구축
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-project-manager-server)
 
 ### 12. 프로젝트 관리 앱 (클라이언트)
 > 칸반보드로 프로젝트의 할 일 관리
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-project-manager)
 
 ### 13. 내손은 금손
 > 내 그림이 무슨 도형인지 CoreML로 판별하는 앱
 
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-my-magical-hand)
 
 
 
