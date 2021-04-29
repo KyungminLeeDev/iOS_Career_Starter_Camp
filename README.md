@@ -20,9 +20,7 @@
 
 ### 3. 쥬스 메이커 (UI 미구현)
 > 쥬스 판매와 과일 재고관리  
-**진척도** `😀😭😭`
-
-[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-juice-maker)
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-juice-maker) `진척도:😀😭😭`
 
 ### 4. 회원가입 화면 
 > 개인정보를 입력받아서 회원가입하는 절차
