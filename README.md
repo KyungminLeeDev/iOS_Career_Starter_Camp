@@ -11,7 +11,7 @@
 ### 1. 묵찌빠
 > Text로 즐기는 묵찌빠 게임
 
-![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-rock-paper-scissors)
+[![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-rock-paper-scissors)
 
 ### 2. 웹 브라우저
 > WebKit으로 만든 웹 브라우저
@@ -20,8 +20,7 @@
 
 ### 3. 쥬스 메이커 (UI 미구현)
 > 쥬스 판매와 과일 재고관리
-- 진척도 ★☆☆ 
-- 진척도 ◼︎◻︎◻︎
+`진척도` 😀😭😭
 
 [![Repository Badge](http://img.shields.io/badge/-Repository-211F1F?style=flat&logo=github&link=https://github.com/KyungminLeeDev/ios-bank-manager)]
 
