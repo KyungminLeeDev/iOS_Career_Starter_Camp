@@ -65,8 +65,8 @@
 ## Timeline
 
 | Week                   | Contents                         |
-| ---------------------: | :------------------------------- |
-| **2021.03.W1 (01~07)** | **TIL** `월` `화` `수` `목` `금` **동기화 메모장 3주차** <br> [`Understanding Swift Performance with 재르시`](https://kyungminleedev.github.io/notes/iOS-Lecture-UnderstandingSwiftPerformance-Summary/), UIView Animation |
+| :--------------------- | :------------------------------- |
+| **2021.03.W1 (01~07)** <br> **동기화 메모장 3주차**  | **TIL** `월` `화` `수` `목` `금` <br> [`Understanding Swift Performance with 재르시`](https://kyungminleedev.github.io/notes/iOS-Lecture-UnderstandingSwiftPerformance-Summary/), UIView Animation |
 | **2021.03.W2 (08~14)** | **TIL** `월` `화` `수` `목` `금` **프로젝트 관리 앱 (서버)** 1주차 |
 |                  Topic | `서버/클라이언트/DB의 동작 관계 역할체험` [`REST API wtih 노루`](https://kyungminleedev.github.io/notes/iOS-Lecture-RestAPI-Summary/) |
 | **2021.03.W3 (15~21)** | **TIL** `월` `화` `수` `목` `금` **프로젝트 관리 앱 (서버)** 2주차 |
