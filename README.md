@@ -64,17 +64,17 @@
 
 ## Timeline
 
-| Week                    | Contents                          |
-| :---------------------: | :-------------------------------: |
-| **2021.03.01~07 3월 1주** <br> 동기화 메모장 3주차  | **TIL** `월` `화` `수` `목` `금` <br> [`Understanding Swift Performance with 재르시`](https://kyungminleedev.github.io/notes/iOS-Lecture-UnderstandingSwiftPerformance-Summary/), UIView Animation |
-| **2021.03.08~14 3월 2주** <br> 프로젝트 관리 앱(서버) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `서버/클라이언트/DB의 동작 관계 역할체험` [`REST API wtih 노루`](https://kyungminleedev.github.io/notes/iOS-Lecture-RestAPI-Summary/) |
-| **2021.03.15~21 3월 3주** <br> 프로젝트 관리 앱(서버) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> [`View Drawing Cycle`](https://kyungminleedev.github.io/notes/iOS-ViewDrawingCycle/) `Notification` |
-| **2021.03.22~28 3월 4주** <br> 프로젝트 관리 앱(서버) 3주차 | **TIL** `월` `화` `수` `목` `금` <br> `OAuth` `Localization` |
-| **2021.04.29~04 4월 1주** <br> 프로젝트 관리 앱(클라) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `Core Graphics` `Core Animation` |
-| **2021.04.05~11 4월 2주** <br> 프로젝트 관리 앱(클라) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `AutoLayout Advanced` `GCD` |
-| **2021.04.12~18 4월 3주** <br> 프로젝트 관리 앱(클라) 3주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) [`수`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) <br> `SwiftUI` `RxSwift` `알쓸신잡: 6개월 전의 나에게 (비공개)` |
-| **2021.04.19~25 4월 4주** <br> 내손은 금손(CoreML) 1주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210419/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210420/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210422/) `금` <br> `소켓` `Xcode 설정` |
-| **2021.04.26~02 4월 5주** <br> 내손은 금손(CoreML) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `Design Patterns` [`알쓸신잡: 성장하는 iOS 개발자 되기`](https://kyungminleedev.github.io/notes/iOSCamp-Webinar-BeGrowingDeveloper/) |
+| Week                       | Contents                          |
+| :------------------------- | :------------------------------- |
+| **2021.03.01~07 (3월1주)** <br> 동기화 메모장 3주차  | **TIL** `월` `화` `수` `목` `금` <br> [`Understanding Swift Performance with 재르시`](https://kyungminleedev.github.io/notes/iOS-Lecture-UnderstandingSwiftPerformance-Summary/), UIView Animation |
+| **2021.03.08~14 (3월2주)** <br> 프로젝트 관리 앱(서버) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `서버/클라이언트/DB의 동작 관계 역할체험` [`REST API wtih 노루`](https://kyungminleedev.github.io/notes/iOS-Lecture-RestAPI-Summary/) |
+| **2021.03.15~21 (3월3주)** <br> 프로젝트 관리 앱(서버) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> [`View Drawing Cycle`](https://kyungminleedev.github.io/notes/iOS-ViewDrawingCycle/) `Notification` |
+| **2021.03.22~28 (3월4주)** <br> 프로젝트 관리 앱(서버) 3주차 | **TIL** `월` `화` `수` `목` `금` <br> `OAuth` `Localization` |
+| **2021.04.29~04 (4월1주)** <br> 프로젝트 관리 앱(클라) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `Core Graphics` `Core Animation` |
+| **2021.04.05~11 (4월2주)** <br> 프로젝트 관리 앱(클라) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `AutoLayout Advanced` `GCD` |
+| **2021.04.12~18 (4월3주)** <br> 프로젝트 관리 앱(클라) 3주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) [`수`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) <br> `SwiftUI` `RxSwift` `알쓸신잡: 6개월 전의 나에게 (비공개)` |
+| **2021.04.19~25 (4월4주)** <br> 내손은 금손(CoreML) 1주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210419/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210420/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210422/) `금` <br> `소켓` `Xcode 설정` |
+| **2021.04.26~02 (4월5주)** <br> 내손은 금손(CoreML) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `Design Patterns` [`알쓸신잡: 성장하는 iOS 개발자 되기`](https://kyungminleedev.github.io/notes/iOSCamp-Webinar-BeGrowingDeveloper/) |
 
 
 ## Check List (참고용 곧 삭제예정)
