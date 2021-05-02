@@ -64,17 +64,34 @@
 
 ## Timeline
 
-| Week                       | Contents                          |
-| :------------------------- | :------------------------------- |
-| **2021.03.01~07 (3월1주)** <br> 동기화 메모장 3주차  | **TIL** `월` `화` `수` `목` `금` <br> [`Understanding Swift Performance with 재르시`](https://kyungminleedev.github.io/notes/iOS-Lecture-UnderstandingSwiftPerformance-Summary/), UIView Animation |
-| **2021.03.08~14 (3월2주)** <br> 프로젝트 관리 앱(서버) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `서버/클라이언트/DB의 동작 관계 역할체험` [`REST API wtih 노루`](https://kyungminleedev.github.io/notes/iOS-Lecture-RestAPI-Summary/) |
-| **2021.03.15~21 (3월3주)** <br> 프로젝트 관리 앱(서버) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> [`View Drawing Cycle`](https://kyungminleedev.github.io/notes/iOS-ViewDrawingCycle/) `Notification` |
-| **2021.03.22~28 (3월4주)** <br> 프로젝트 관리 앱(서버) 3주차 | **TIL** `월` `화` `수` `목` `금` <br> `OAuth` `Localization` |
-| **2021.04.29~04 (4월1주)** <br> 프로젝트 관리 앱(클라) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `Core Graphics` `Core Animation` |
-| **2021.04.05~11 (4월2주)** <br> 프로젝트 관리 앱(클라) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `AutoLayout Advanced` `GCD` |
-| **2021.04.12~18 (4월3주)** <br> 프로젝트 관리 앱(클라) 3주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) [`수`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) <br> `SwiftUI` `RxSwift` `알쓸신잡: 6개월 전의 나에게 (비공개)` |
-| **2021.04.19~25 (4월4주)** <br> 내손은 금손(CoreML) 1주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210419/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210420/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210422/) `금` <br> `소켓` `Xcode 설정` |
-| **2021.04.26~02 (4월5주)** <br> 내손은 금손(CoreML) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `Design Patterns` [`알쓸신잡: 성장하는 iOS 개발자 되기`](https://kyungminleedev.github.io/notes/iOSCamp-Webinar-BeGrowingDeveloper/) |
+| Week                        | Contents                          |
+| :-------------------------- | :------------------------------- |
+| **2020.11.W1 (02~08)** <br> | **TIL** `월` `화` `수` `목` `금` <br> `짝 프로그래밍` `Git과 GitHub` `컴퓨터 기초` `Optional`|
+| **2020.11.W2 (09~15)** <br> | **TIL** `월` `화` `수` `목` `금` <br> `H.I.G` `타입` `일반화와 추상화`|
+| **2020.11.W3 (16~22)** <br> | **TIL** `월` `화` `수` `목` `금` <br> `디자인패턴` `MVC` `객체` `프로퍼티 기본값과 이니셜라이저의 초기화 차이` `Notification Center` `KVO`|
+| **2020.11.W4 (23~29)** <br> | **TIL** `월` `화` `수` `목` `금` <br> `View Life Cycle` `Type Property` `Singleton / Singleton` `Protocol / Delegation Design Pattern`|
+| **2020.12.W1 (30~06)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2020.12.W2 (07~13)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2020.12.W3 (14~20)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2020.12.W4 (21~27)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2020.12.W5 (28~03)** | **캠프 방학**|
+| **2021.01.W1 (04~10)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2021.01.W2 (11~17)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2021.01.W3 (18~24)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2021.01.W4 (25~31)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2021.02.W1 (01~07)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2021.02.W2 (08~14)** | **캠프 방학** |
+| **2021.02.W3 (15~21)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2021.02.W4 (22~28)** <br> | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2021.03.W1 (01~07)** <br> 동기화 메모장 3주차  | **TIL** `월` `화` `수` `목` `금` <br> [`Understanding Swift Performance with 재르시`](https://kyungminleedev.github.io/notes/iOS-Lecture-UnderstandingSwiftPerformance-Summary/), UIView Animation |
+| **2021.03.W2 (08~14)** <br> 프로젝트 관리 앱(서버) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `서버/클라이언트/DB의 동작 관계 역할체험` [`REST API wtih 노루`](https://kyungminleedev.github.io/notes/iOS-Lecture-RestAPI-Summary/) |
+| **2021.03.W3 (15~21)** <br> 프로젝트 관리 앱(서버) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> [`View Drawing Cycle`](https://kyungminleedev.github.io/notes/iOS-ViewDrawingCycle/) `Notification` |
+| **2021.03.W4 (22~28)** <br> 프로젝트 관리 앱(서버) 3주차 | **TIL** `월` `화` `수` `목` `금` <br> `OAuth` `Localization` |
+| **2021.04.W1 (29~04)** <br> 프로젝트 관리 앱(클라) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `Core Graphics` `Core Animation` |
+| **2021.04.W2 (05~11)** <br> 프로젝트 관리 앱(클라) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `AutoLayout Advanced` `GCD` |
+| **2021.04.W3 (12~18)** <br> 프로젝트 관리 앱(클라) 3주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210412/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210413/) [`수`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210414/) [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210415/) <br> `SwiftUI` `RxSwift` `알쓸신잡: 6개월 전의 나에게 (비공개)` |
+| **2021.04.W4 (19~25)** <br> 내손은 금손(CoreML) 1주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210419/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210420/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210422/) `금` <br> `소켓` `Xcode 설정` |
+| **2021.04.W5 (26~02)** <br> 내손은 금손(CoreML) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `Design Patterns` [`알쓸신잡: 성장하는 iOS 개발자 되기`](https://kyungminleedev.github.io/notes/iOSCamp-Webinar-BeGrowingDeveloper/) `배포 CI/CD`|
 
 
 ## Check List (참고용 곧 삭제예정)
