@@ -70,21 +70,21 @@
 | **2020.11.W2 (09~15)** <br> 웹 브라우저 | **TIL** `월` `화` `수` `목` `금` <br> `H.I.G` `타입` `일반화와 추상화`|
 | **2020.11.W3 (16~22)** <br> 쥬스 메이커 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `디자인패턴` `MVC` `객체` `프로퍼티 기본값과 이니셜라이저의 초기화 차이` <br> `Notification Center` `KVO`|
 | **2020.11.W4 (23~29)** <br> 쥬스 메이커 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `View Life Cycle` `Type Property / Singleton` <br> `Protocol / Delegation Pattern`|
-| **2020.12.W1 (30~06)** <br> 회원가입 화면| **TIL** `월` `화` `수` `목` `금` <br> |
-| **2020.12.W2 (07~13)** <br> 계산기 1주차 | **TIL** `월` `화` `수` `목` `금` <br> |
-| **2020.12.W3 (14~20)** <br> 계산기 2주차 | **TIL** `월` `화` `수` `목` `금` <br> |
-| **2020.12.W4 (21~27)** <br> 만국박람회 | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2020.12.W1 (30~06)** <br> 회원가입 화면 | **TIL** `월` `화` `수` `목` `금` <br> `UML` `SOLID` |
+| **2020.12.W2 (07~13)** <br> 계산기 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `Auto Layout` `Stack` `Queue` `Linked list`|
+| **2020.12.W3 (14~20)** <br> 계산기 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `Unit Test` `TDD` `클로저` `고차함수` `함수형 프로그래밍` |
+| **2020.12.W4 (21~27)** <br> 만국박람회 | **TIL** `월` `화` `수` `목` `금` <br> `JSON` `Table View` `LLDB` |
 | **2020.12.W5 (28~03)** | **캠프 방학**|
-| **2021.01.W1 (04~10)** <br> 은행 창구 매니저 1주차 | **TIL** `월` `화` `수` `목` `금` <br> |
-| **2021.01.W2 (11~17)** <br> 은행 창구 매니저 2주차 | **TIL** `월` `화` `수` `목` `금` <br> |
-| **2021.01.W3 (18~24)** <br> 날씨 정보 | **TIL** `월` `화` `수` `목` `금` <br> |
-| **2021.01.W4 (25~31)** <br> 오픈 마켓 1주차 | **TIL** `월` `화` `수` `목` `금` <br> |
-| **2021.02.W1 (01~07)** <br> 오픈 마켓 2주차 | **TIL** `월` `화` `수` `목` `금` <br> |
+| **2021.01.W1 (04~10)** <br> 은행 창구 매니저 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `프로세서와 프로세스` `Concurrent Programming`|
+| **2021.01.W2 (11~17)** <br> 은행 창구 매니저 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `메모리 구조` `ARC` `iOS App Life Cycle` |
+| **2021.01.W3 (18~24)** <br> 날씨 정보 | **TIL** `월` `화` `수` `목` `금` <br> `HTTP와 HTTPS` `테이블뷰 셀의 재사용`|
+| **2021.01.W4 (25~31)** <br> 오픈 마켓 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `Collection View` `Protocol Oriented Programming` `서버 프로그래머와의 대화` |
+| **2021.02.W1 (01~07)** <br> 오픈 마켓 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `키체인` `Cache`|
 | **2021.02.W2 (08~14)** | **캠프 방학** |
-| **2021.02.W3 (15~21)** <br> 동기화 메모장 1주차 | **TIL** `월` `화` `수` `목` `금` <br> |
-| **2021.02.W4 (22~28)** <br> 동기화 메모장 2주차 | **TIL** `월` `화` `수` `목` `금` <br> |
-| **2021.03.W1 (01~07)** <br> 동기화 메모장 3주차 | **TIL** `월` `화` `수` `목` `금` <br> [`Understanding Swift Performance with 재르시`](https://kyungminleedev.github.io/notes/iOS-Lecture-UnderstandingSwiftPerformance-Summary/), UIView Animation |
-| **2021.03.W2 (08~14)** <br> 프로젝트 관리 앱(서버) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `서버/클라이언트/DB의 동작 관계 역할체험` [`REST API wtih 노루`](https://kyungminleedev.github.io/notes/iOS-Lecture-RestAPI-Summary/) |
+| **2021.02.W3 (15~21)** <br> 동기화 메모장 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `Core Data` `의존성 관리도구` `1인 개발자 이야기(전미정)`|
+| **2021.02.W4 (22~28)** <br> 동기화 메모장 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `Responder chain과 Touch Events` `iOS File System` `코딩테스트에 대하여`|
+| **2021.03.W1 (01~07)** <br> 동기화 메모장 3주차 | **TIL** `월` `화` `수` `목` `금` <br> [`Understanding Swift Performance(재르시)`](https://kyungminleedev.github.io/notes/iOS-Lecture-UnderstandingSwiftPerformance-Summary/) `UIView Animation` |
+| **2021.03.W2 (08~14)** <br> 프로젝트 관리 앱(서버) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `서버/클라이언트/DB의 동작 관계` [`REST API(노루)`](https://kyungminleedev.github.io/notes/iOS-Lecture-RestAPI-Summary/) |
 | **2021.03.W3 (15~21)** <br> 프로젝트 관리 앱(서버) 2주차 | **TIL** `월` `화` `수` `목` `금` <br> [`View Drawing Cycle`](https://kyungminleedev.github.io/notes/iOS-ViewDrawingCycle/) `Notification` |
 | **2021.03.W4 (22~28)** <br> 프로젝트 관리 앱(서버) 3주차 | **TIL** `월` `화` `수` `목` `금` <br> `OAuth` `Localization` |
 | **2021.04.W1 (29~04)** <br> 프로젝트 관리 앱(클라) 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `Core Graphics` `Core Animation` |
