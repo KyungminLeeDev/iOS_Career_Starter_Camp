@@ -6,10 +6,10 @@
 - 캠프 기간: 2020년 11월 2일 ~ 20201년 4월 30일
 - 닉네임 Jacob으로 활동
 
-## Table of Contents
+## 목차
 
-[Projects](#Projects)
-[Timeline](#Timeline)
+- [Projects](#Projects)
+- [Timeline](#Timeline)
 
 ## Projects
 
