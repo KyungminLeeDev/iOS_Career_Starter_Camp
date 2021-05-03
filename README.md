@@ -69,8 +69,8 @@
 
 ## Timeline
 
-| Week                        | Contents                           |
-| --------------------------: | :--------------------------------: |
+| Week                        | Contents                          |
+| --------------------------: | :-------------------------------- |
 | **2020.11.W1** <br> (02~08) | **묵찌빠** 1주차 <br> **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201102/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201103/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201105/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201106/) [`TWL`](https://kyungminleedev.github.io/til/iOSCamp-TWL-20201106/) <br> `짝 프로그래밍` `Git과 GitHub` `컴퓨터 기초` `Optional`|
 | **2020.11.W2** <br> (09~15) | **웹 브라우저** 1주차 <br> **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201109/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201110/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201112/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201113/) [`TWL`](https://kyungminleedev.github.io/til/iOSCamp-TWL-20201113/) <br> `H.I.G` `타입` `일반화와 추상화`|
 | **2020.11.W3** <br> (16~22) | **쥬스 메이커** 1주차 <br> **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201116/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201117/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201119/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201120/) <br> `디자인패턴` `MVC` `객체` `프로퍼티 기본값과 이니셜라이저의 초기화 차이` <br> `Notification Center` `KVO`|
