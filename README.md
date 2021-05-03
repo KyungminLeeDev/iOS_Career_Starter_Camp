@@ -1,10 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungminLeeDev%2FiOS_Career_Starter_Camp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# iOS Career Starter Camp 1기
-> 야곰아카데미 iOS 커리어 스타터 캠프 1기에 참여하여 배운 내용을 정리한 Repository
+# iOS 커리어 스타터 캠프 1기
+> 야곰 아카데미의 iOS 커리어 스타터 캠프 1기에 참여하여 배운 내용 정리  
 
 - 캠프 기간: 2020년 11월 2일 ~ 20201년 4월 30일
-- 닉네임 Jacob으로 활동
 
 ## Index
 
