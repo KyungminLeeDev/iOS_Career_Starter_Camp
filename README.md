@@ -6,7 +6,7 @@
 - 캠프 기간: 2020년 11월 2일 ~ 20201년 4월 30일
 - 닉네임 Jacob으로 활동
 
-## 목차
+## Index
 
 - [Projects](#Projects)
 - [Timeline](#Timeline)
@@ -70,15 +70,15 @@
 ## Timeline
 
 | Week                        | Contents                          |
-| :-------------------------- | :------------------------------- |
-| **2020.11.W1 (02~08)** <br> 묵찌빠 | **TIL** `월` `화` `수` `목` `금` <br> `짝 프로그래밍` `Git과 GitHub` `컴퓨터 기초` `Optional`|
-| **2020.11.W2 (09~15)** <br> 웹 브라우저 | **TIL** `월` `화` `수` `목` `금` <br> `H.I.G` `타입` `일반화와 추상화`|
-| **2020.11.W3 (16~22)** <br> 쥬스 메이커 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `디자인패턴` `MVC` `객체` `프로퍼티 기본값과 이니셜라이저의 초기화 차이` <br> `Notification Center` `KVO`|
-| **2020.11.W4 (23~29)** <br> 쥬스 메이커 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `View Life Cycle` `Type Property / Singleton` <br> `Protocol / Delegation Pattern`|
-| **2020.12.W1 (30~06)** <br> 회원가입 화면 | **TIL** `월` `화` `수` `목` `금` <br> `UML` `SOLID` |
-| **2020.12.W2 (07~13)** <br> 계산기 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `Auto Layout` `Stack` `Queue` `Linked list`|
-| **2020.12.W3 (14~20)** <br> 계산기 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `Unit Test` `TDD` `클로저` `고차함수` `함수형 프로그래밍` |
-| **2020.12.W4 (21~27)** <br> 만국박람회 | **TIL** `월` `화` `수` `목` `금` <br> `JSON` `Table View` `LLDB` |
+| :-------------------------- | :-------------------------------- |
+| **2020.11.W1 (02~08)** <br> 묵찌빠 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201102/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201103/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201105/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201106/) [`TWL`](https://kyungminleedev.github.io/til/iOSCamp-TWL-20201106/) <br> `짝 프로그래밍` `Git과 GitHub` `컴퓨터 기초` `Optional`|
+| **2020.11.W2 (09~15)** <br> 웹 브라우저 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201109/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201110/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201112/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201113/) [`TWL`](https://kyungminleedev.github.io/til/iOSCamp-TWL-20201113/) <br> `H.I.G` `타입` `일반화와 추상화`|
+| **2020.11.W3 (16~22)** <br> 쥬스 메이커 1주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201116/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201117/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201119/) [`금`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201120/) <br> `디자인패턴` `MVC` `객체` `프로퍼티 기본값과 이니셜라이저의 초기화 차이` <br> `Notification Center` `KVO`|
+| **2020.11.W4 (23~29)** <br> 쥬스 메이커 2주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201123/) `화` [`수`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201125/) [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201126/) `금` <br> `View Life Cycle` `Type Property / Singleton` <br> `Protocol / Delegation Pattern`|
+| **2020.12.W1 (30~06)** <br> 회원가입 화면 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201130/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201201/) [`수`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201202/) [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201203/) `금` [`TWL`](https://kyungminleedev.github.io/til/iOSCamp-TWL-20201205/) <br> `UML` `SOLID` |
+| **2020.12.W2 (07~13)** <br> 계산기 1주차 | **TIL** `월` `화` `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201210/) `금` <br> `Auto Layout` `Stack` `Queue` `Linked list`|
+| **2020.12.W3 (14~20)** <br> 계산기 2주차 | **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201214/) `화` `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201217/) `금` <br> `Unit Test` `TDD` `클로저` `고차함수` `함수형 프로그래밍` |
+| **2020.12.W4 (21~27)** <br> 만국박람회 | **TIL** `월` [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201222/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20201224/) `금` <br> `JSON` `Table View` `LLDB` |
 | **2020.12.W5 (28~03)** | **캠프 방학**|
 | **2021.01.W1 (04~10)** <br> 은행 창구 매니저 1주차 | **TIL** `월` `화` `수` `목` `금` <br> `프로세서와 프로세스` `Concurrent Programming`|
 | **2021.01.W2 (11~17)** <br> 은행 창구 매니저 2주차 | **TIL** `월` `화` `수` `목` `금` <br> `메모리 구조` `ARC` `iOS App Life Cycle` |
