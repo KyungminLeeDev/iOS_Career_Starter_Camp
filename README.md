@@ -16,7 +16,8 @@
 - Text로 즐기는 묵찌빠 게임  
 - `팀플`
 
-### 2. [웹 브라우저](https://github.com/KyungminLeeDev/ios-web-browser) 👈 Repository에서 자세히 보기
+### 2. [웹 브라우저](https://github.com/KyungminLeeDev/ios-web-browser)
+- 👆 Repository에서 자세히 보기
 - Webkit으로 구현한 웹 브라우저 앱
 - 팀 프로젝트: `Jacob`, [`Lina`](https://github.com/lina0322)
 - 진행 기간: 2020.11.09~15 (1주)
@@ -26,6 +27,16 @@
     - 잘못된 주소는 Alert 표시 
     - 주소에 "https://" 붙이기 
     - 앞/뒤로 가기, 새로고침
+
+- Webkit으로 구현한 웹 브라우저 앱
+- 팀 프로젝트: `Jacob`, [`Lina`](https://github.com/lina0322)
+- 진행 기간: 2020.11.09~15 (1주)
+- 학습 Keyword: `Text Field`, `Alert`, `Web View`, `Toolbar`, `Button`, `URL`, `정규식`
+- 기능
+
+| 입력한 주소로 이동 | 잘못된 주소는 Alert 표시 | 주소에 "https://" 붙이기 | 앞/뒤로 가기, 새로 고침 | 
+| :----------------: | :----------------------: | :----------------------: | :---------------------: |
+| ![](https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/MoveToURL.gif) | ![](https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/WrongURL.gif) | ![](https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/AutoURL.gif) | ![](https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/ForwardBackReload.gif) |
 
 ### ~~3. 쥬스 메이커~~
 - 쥬스 판매와 과일 재고관리  
