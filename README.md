@@ -16,7 +16,8 @@
 - Text로 즐기는 묵찌빠 게임  
 - `팀플`
 
-### 2. [웹 브라우저](https://github.com/KyungminLeeDev/ios-web-browser)
+### 2. [웹 브라우저](https://github.com/KyungminLeeDev/ios-web-browser)  
+
 - 👆 Repository에서 자세히 보기
 - Webkit으로 구현한 웹 브라우저 앱
 - 팀 프로젝트: `Jacob`, [`Lina`](https://github.com/lina0322)
