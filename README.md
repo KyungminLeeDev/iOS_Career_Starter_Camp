@@ -16,19 +16,9 @@
 - Text로 즐기는 묵찌빠 게임  
 - `팀플`
 
-### 2. [웹 브라우저](https://github.com/KyungminLeeDev/ios-web-browser)  
+### 2. 웹 브라우저
 
-- 👆 Repository에서 자세히 보기
-- Webkit으로 구현한 웹 브라우저 앱
-- 팀 프로젝트: `Jacob`, [`Lina`](https://github.com/lina0322)
-- 진행 기간: 2020.11.09~15 (1주)
-- 학습 Keyword: `WebKit View` `Toolbar` `Button` `Text Field` `Alert`
-- 기능 
-    - 입력한 주소로 이동 
-    - 잘못된 주소는 Alert 표시 
-    - 주소에 "https://" 붙이기 
-    - 앞/뒤로 가기, 새로고침
-
+- 자세히 보기 👉 [![Repository Badge](http://img.shields.io/badge/-ios_web_browser-181717?style=plastic&logo=github)](https://github.com/KyungminLeeDev/ios-web-browser)
 - Webkit으로 구현한 웹 브라우저 앱
 - 팀 프로젝트: `Jacob`, [`Lina`](https://github.com/lina0322)
 - 진행 기간: 2020.11.09~15 (1주)
