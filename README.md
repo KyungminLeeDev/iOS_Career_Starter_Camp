@@ -18,7 +18,7 @@
 
 ### 2. 웹 브라우저
 
-- [![Repository Badge](http://img.shields.io/badge/-ios--web--browser_👈_자세히_보기-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-web-browser)
+    [![Repository Badge](http://img.shields.io/badge/-ios--web--browser_👈_자세히_보기-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-web-browser)
 - Webkit으로 구현한 웹 브라우저 앱
 - 팀 프로젝트: `Jacob`, [`Lina`](https://github.com/lina0322)
 - 진행 기간: 2020.11.09~15 (1주)
