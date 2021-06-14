@@ -35,10 +35,11 @@
 
 ### 4. 회원가입 화면
 
+[![Repository Badge](http://img.shields.io/badge/-ios--signup--flow_👈_Repository에서_자세히_보기-181717?style=flat-square&logo=github)](https://github.com/KyungminLeeDev/ios-signup-flow)
+
 | 📺 데모 | 💡 개요 |
 | :-: | :- |
-| ![](https://github.com/KyungminLeeDev/ios-signup-flow/blob/1-jacob/Images/SignUpFlow_Demo.gif) | [![Repository Badge](http://img.shields.io/badge/-ios--signup--flow_👈_자세히_보기-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-signup-flow) <br> 📱 회원가입하는 절차와 화면 구현 <br> 🧑🏻‍💻 **팀 프로젝트:** `Jacob`, [`Glenn`](https://github.com/iluxsm) <br> 🗓 **진행 기간:** 2020.11.30~12.06 (1주) <br> 📝 **학습 키워드:** `Navigation Controller`, `Text Field`, `Text View`, `Image Picker`, `Date Picker`, `Gesture Recognizer`, `Singleton`|
-
+| ![](https://github.com/KyungminLeeDev/ios-signup-flow/blob/1-jacob/Images/SignUpFlow_Demo.gif) | 📱 회원가입하는 절차와 화면 구현 <br> 🧑🏻‍💻 팀 프로젝트: `Jacob`, [`Glenn`](https://github.com/iluxsm) <br> 🗓 진행 기간: 2020.11.30~12.06 (1주) <br> 📝 학습 키워드: `Navigation Controller`, `Text Field`, `Text View`, `Image Picker`, `Date Picker`, `Gesture Recognizer`, `Singleton` <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> |
 
 ### ~~5. 계산기~~
 - 10진수/2진수 계산기 앱  
