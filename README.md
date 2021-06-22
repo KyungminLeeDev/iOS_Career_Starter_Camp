@@ -12,68 +12,47 @@
 
 ## Projects
 
-### 1. 묵찌빠
-- Text로 즐기는 묵찌빠 게임  
-- `팀플`
+### 웹 브라우저 앱
 
-### 2. 웹 브라우저
+[![Repository Badge](http://img.shields.io/badge/-ios--web--Browser_👈_Repository에서_자세히_보기-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-web-browser)
 
-- [![Repository Badge](http://img.shields.io/badge/-ios--web--browser_👈_자세히_보기-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-web-browser)
-- Webkit으로 구현한 웹 브라우저 앱
-- 팀 프로젝트: `Jacob`, [`Lina`](https://github.com/lina0322)
-- 진행 기간: 2020.11.09~15 (1주)
-- 학습 Keyword: `Text Field`, `Alert`, `Web View`, `Toolbar`, `Button`, `URL`, `정규식`
-- 기능
+| 📺 데모 | 💡 개요 |
+| ------- | ------- |
+| <img src = https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/WebBrowser_Demo.gif width="250px"> | 🚀 Webkit으로 구현한 웹 브라우저 앱 <br> 🧑🏻‍💻 팀 프로젝트: `Jacob`, [`Lina`](https://github.com/lina0322) <br> 🗓 진행 기간: 2020.11.09~15 (1주) <br> ⚙️ 기능 <br> &nbsp;&nbsp;&nbsp;&nbsp; `입력한 주소로 이동` <br> &nbsp;&nbsp;&nbsp;&nbsp; `잘못된 주소는 Alert 표시` <br> &nbsp;&nbsp;&nbsp;&nbsp; `주소에 "https://" 붙이기` <br> &nbsp;&nbsp;&nbsp;&nbsp; `앞/뒤로 가기, 새로 고침` <br> 📝 학습 키워드 <br> &nbsp;&nbsp;&nbsp;&nbsp; `Text Field` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Alert` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Web View` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Toolbar` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Button` <br> &nbsp;&nbsp;&nbsp;&nbsp; `URL` <br> &nbsp;&nbsp;&nbsp;&nbsp; `정규식` |
 
-| 입력한 주소로 이동 | 잘못된 주소는 Alert 표시 | 주소에 "https://" 붙이기 | 앞/뒤로 가기, 새로 고침 | 
-| :----------------: | :----------------------: | :----------------------: | :---------------------: |
-| ![](https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/MoveToURL.gif) | ![](https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/WrongURL.gif) | ![](https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/AutoURL.gif) | ![](https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/ForwardBackReload.gif) |
+### 회원가입 화면
 
-### ~~3. 쥬스 메이커~~
-- 쥬스 판매와 과일 재고관리  
-- `개인`
-
-### 4. 회원가입 화면
-
-[![Repository Badge](http://img.shields.io/badge/-ios--signup--flow_👈_Repository에서_자세히_보기-181717?style=flat-square&logo=github)](https://github.com/KyungminLeeDev/ios-signup-flow)
+[![Repository Badge](http://img.shields.io/badge/-ios--signup--flow_👈_Repository에서_자세히_보기-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-signup-flow)
 
 | 📺 데모 | 💡 개요 |
 | :-: | :- |
 | <img src = https://github.com/KyungminLeeDev/ios-signup-flow/blob/1-jacob/Images/SignUpFlow_Demo.gif width="250px"> | 🚀 회원가입하는 절차와 화면 구현 <br> 🧑🏻‍💻 팀 프로젝트: `Jacob`, [`Glenn`](https://github.com/iluxsm) <br> 🗓 진행 기간: 2020.11.30 ~ 12.06 (1주) <br> ⚙️ 기능 <br> &nbsp;&nbsp;&nbsp;&nbsp; `기타 영역 터치 시 키보드 내리기` <br> &nbsp;&nbsp;&nbsp;&nbsp; `다음 텍스트필드로 커서 이동` <br> &nbsp;&nbsp;&nbsp;&nbsp; `사진첩에서 프사 가져오기` <br> &nbsp;&nbsp;&nbsp;&nbsp; `개인 정보 입력 확인` <br> &nbsp;&nbsp;&nbsp;&nbsp; `전화번호 확인` <br> &nbsp;&nbsp;&nbsp;&nbsp; `개인 정보 임시 저장` <br> 📝 학습 키워드 <br> &nbsp;&nbsp;&nbsp;&nbsp; `Navigation Controller` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Text Field` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Text View` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Image Picker` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Date Picker` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Gesture Recognizer` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Singleton` |
 
-### ~~5. 계산기~~
-- 10진수/2진수 계산기 앱  
-- `개인`
-
-### ~~6. 만국박람회~~
-- 만국박람회 출품작 리스트  
-- `개인`
-
-### 7. 은행 창구 매니저
+### 은행 창구 매니저
 - 은행 창구 운영 시뮬레이터  
 - `팀플`
 
-### 8. 날씨 정보
+### 날씨 정보
 - 날씨 정보 API로 현재 위치의 날씨 예보  
 - `개인`
 
-### 9. 오픈 마켓
+### 오픈 마켓
 - 마켓에 등록된 상품을 확인하고 내 상품도 등록  
 - `팀플`
 
-### 10. 동기화 메모장
+### 메모장
 - 메모를 작성하고 Core Data에 저장 및 드랍박스 동기화  
 - `팀플`
 
-### 11. 프로젝트 관리 앱 (서버) 
+### 프로젝트 관리 앱 (서버) 
 - 프로젝트 관리 앱과 통신할 서버 구축  
 - `팀플`
 
-### 12. 프로젝트 관리 앱 (클라이언트)
+### 프로젝트 관리 앱 (클라이언트)
 - 칸반보드로 프로젝트의 할 일 관리  
 - `팀플`
 
-### 13. 내손은 금손
+### 내손은 금손
 - 내 그림이 무슨 도형인지 CoreML로 판별하는 앱  
 - `개인`
 
