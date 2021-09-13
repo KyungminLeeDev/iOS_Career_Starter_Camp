@@ -100,7 +100,9 @@
 ### 야곰닷넷 강좌
 
 **오토레이아웃 정복하기**
+- [실습 프로젝트](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/AutoLayoutExamples)
 - [1. Understanding Auto Layout](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/1-Understanding-Auto-Layout.md)
 - [2. Anatomy of a Constraint](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/2-Anatomy-of-a-Constraint.md)
 - [3. Working in Interface Builder](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/3-Working-in-Interface-Builder.md)
 - [4. Simple Constraints](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/4-Simple-Constraints.md)
+- [5. Profile View (Challange)](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/5-Profile-View-Challange.md)
