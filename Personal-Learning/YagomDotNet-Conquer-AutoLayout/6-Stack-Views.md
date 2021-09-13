@@ -1,6 +1,6 @@
 # 6. Stack Views
 
-- [야곰닷넷 강좌 바로가기](https://yagom.net/courses/autolayout/lessons/simple-constraints/)
+- [야곰닷넷 강좌 바로가기](https://yagom.net/courses/autolayout/lessons/stack-views/)
 
 
 ## Understanding Stack View
