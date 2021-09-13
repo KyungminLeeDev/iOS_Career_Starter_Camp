@@ -106,3 +106,4 @@
 - [3. Working in Interface Builder](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/3-Working-in-Interface-Builder.md)
 - [4. Simple Constraints](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/4-Simple-Constraints.md)
 - [5. Profile View (Challange)](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/5-Profile-View-Challange.md)
+- [6. Stack Views](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/6-Stack-Views.md)
