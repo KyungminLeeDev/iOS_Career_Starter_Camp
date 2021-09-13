@@ -1,5 +1,6 @@
 # 1. Understanding Auto Layout
 
+- [야곰닷넷 강좌 바로가기](https://yagom.net/courses/autolayout/lessons/understanding-auto-layout/)
 - [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/)
 - 오토레이아웃은 size와 position을 constraints에 기반하여 계산한다.
 
