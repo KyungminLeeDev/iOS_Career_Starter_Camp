@@ -1,6 +1,6 @@
 # 11. Safe Area & Layout margins
 
-- [야곰닷넷 강좌 바로가기](https://yagom.net/courses/autolayout/lessons/size-classes/
+- [야곰닷넷 강좌 바로가기](https://yagom.net/courses/autolayout/lessons/safe-area-layout-margins/)
 - WWDC 2019 - Session 235 - UIKit: Apps for Every Size And Shape 에서 더 자세히 알 수 있다
 
 ## Safe Area
