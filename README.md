@@ -114,3 +114,4 @@
 - [10. Size Classes](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/10-Size-Classes.md)
 - [11. Safe Area & Layout margins](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/11-Safe-Area-N-Layout-Marigns.md)
 - [12. Working with Scroll Views](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/12-Working-with-Scroll-Views.md)
+- [13. Dynamic Type](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/13-Dynamic-Type.md)

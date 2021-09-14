@@ -10,11 +10,27 @@ import UIKit
 class DynamicScrollViewController: UIViewController {
 
     @IBOutlet var stackView: UIStackView!
+    @IBOutlet var buttons: [UIButton]!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        NotificationCenter.default.addObserver(self,
+                                               selector: #selector(adjustButtonDynamictype),
+                                               name: UIContentSizeCategory.didChangeNotification,
+                                               object: nil)
+        
+        buttons.forEach { (button) in
+            button.titleLabel?.adjustsFontForContentSizeCategory = true
+        }
+    }
+    
+    @objc func adjustButtonDynamictype() {
+        // 야곰 강의에서는 이렇게 하라고 돼있는데 실제론 viewDidLoad에서 한번만 처리해주어도 된다.
+//        buttons.forEach { (button) in
+//            button.titleLabel?.adjustsFontForContentSizeCategory = true
+//        }
     }
     
     @IBAction func addView() {

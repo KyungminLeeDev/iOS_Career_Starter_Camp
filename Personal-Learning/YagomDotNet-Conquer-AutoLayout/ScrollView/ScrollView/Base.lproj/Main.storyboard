@@ -102,17 +102,19 @@ Label</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="16" baselineRelativeArrangement="YES" translatesAutoresizingMaskIntoConstraints="NO" id="d4x-qa-V8O">
-                                <rect key="frame" x="20" y="812" width="374" height="30"/>
+                                <rect key="frame" x="20" y="809" width="374" height="33"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kc5-z9-aLT">
-                                        <rect key="frame" x="0.0" y="0.0" width="179" height="30"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="179" height="33"/>
+                                        <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
                                         <state key="normal" title="ADD"/>
                                         <connections>
                                             <action selector="addView" destination="5pi-dY-08U" eventType="touchUpInside" id="4uX-WM-BTg"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ivx-HY-8wt">
-                                        <rect key="frame" x="195" y="0.0" width="179" height="30"/>
+                                        <rect key="frame" x="195" y="0.0" width="179" height="33"/>
+                                        <fontDescription key="fontDescription" style="UICTFontTextStyleTitle3"/>
                                         <state key="normal" title="Remove"/>
                                         <connections>
                                             <action selector="removeView" destination="5pi-dY-08U" eventType="touchUpInside" id="cMV-8a-c7c"/>
@@ -121,10 +123,18 @@ Label</string>
                                 </subviews>
                             </stackView>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GSp-au-WRK">
-                                <rect key="frame" x="0.0" y="44" width="414" height="768"/>
+                                <rect key="frame" x="0.0" y="44" width="414" height="765"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="kA3-Bc-yOs">
-                                        <rect key="frame" x="0.0" y="0.0" width="414" height="768"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="17"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9cK-Bk-bKg">
+                                                <rect key="frame" x="0.0" y="0.0" width="414" height="17"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
                                     </stackView>
                                 </subviews>
                                 <constraints>
@@ -153,6 +163,8 @@ Label</string>
                     </view>
                     <connections>
                         <outlet property="stackView" destination="kA3-Bc-yOs" id="1XR-R1-SvF"/>
+                        <outletCollection property="buttons" destination="Kc5-z9-aLT" collectionClass="NSMutableArray" id="sp5-BA-he2"/>
+                        <outletCollection property="buttons" destination="ivx-HY-8wt" collectionClass="NSMutableArray" id="qg4-Rz-Doj"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ExI-7r-6DD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
