@@ -112,3 +112,4 @@
 - [9. Dynamic Stack View - 예제 프로젝트](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/9-Dynamic-Stack-View.md)
     - Add 버튼으로 Horizontal 스택 뷰에 뷰 추가, Remove 뷰 삭제, 추가 및 삭제 애니메이션
 - [10. Size Classes](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/10-Size-Classes.md)
+- [11. Safe Area & Layout margins](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/11-Safe-Area-N-Layout-Marigns.md)
