@@ -109,3 +109,5 @@
 - [6. Stack Views](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/6-Stack-Views.md)
 - [7. Debugging Auto Layout](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/7-Debugging-Auto-Layout.md)
 - [8. Constraints with Code](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/8-Constraints-with-Code.md)
+- [9. Dynamic Stack View - 예제 프로젝트](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/9-Dynamic-Stack-View.md)
+    - Add 버튼으로 Horizontal 스택 뷰에 뷰 추가, Remove 뷰 삭제, 추가 및 삭제 애니메이션
