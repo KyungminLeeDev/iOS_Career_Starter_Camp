@@ -108,3 +108,4 @@
 - [5. Profile View (Challange)](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/5-Profile-View-Challange.md)
 - [6. Stack Views](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/6-Stack-Views.md)
 - [7. Debugging Auto Layout](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/7-Debugging-Auto-Layout.md)
+- [8. Constraints with Code](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/8-Constraints-with-Code.md)
