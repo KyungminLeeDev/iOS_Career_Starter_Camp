@@ -1,6 +1,6 @@
 # 13. Dynamic Type
 
-- [야곰닷넷 강좌 바로가기](hhttps://yagom.net/courses/autolayout/lessons/working-with-scroll-views/topic/the-basis/)
+- [야곰닷넷 강좌 바로가기](https://yagom.net/courses/autolayout/lessons/working-with-scroll-views/topic/the-basis/)
 - [H.I.G - Visual Design - Typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/)에서 Dynamic Type Sizes 정보를 확인할 수 있다.
 
 ## 폰트 다이나믹 타입 설정

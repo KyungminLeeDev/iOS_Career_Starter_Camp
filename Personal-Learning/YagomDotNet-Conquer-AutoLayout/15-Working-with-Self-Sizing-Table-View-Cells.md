@@ -1,6 +1,6 @@
 # 15. Working with Self-Sizing Table View Cells
 
-- [야곰닷넷 강좌 바로가기](hhttps://yagom.net/courses/autolayout/lessons/working-with-scroll-views/topic/the-basis/)
+- [야곰닷넷 강좌 바로가기](https://yagom.net/courses/autolayout/lessons/working-with-self-sizing-table-view-cells/)
 - [Working with Self-Sizing Table View Cells](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithSelf-SizingTableViewCells.html#//apple_ref/doc/uid/TP40010853-CH25-SW1)
 
 ## The Basics
