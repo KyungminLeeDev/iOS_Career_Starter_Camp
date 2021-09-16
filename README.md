@@ -97,9 +97,8 @@
 
 ## 개인학습
 
-### 야곰닷넷 강좌
+### 야곰닷넷 강좌 - [오토레이아웃 정복하기](https://yagom.net/courses/autolayout/)
 
-**오토레이아웃 정복하기**
 - [실습 프로젝트](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/AutoLayoutExamples)
 - [1. Understanding Auto Layout](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/1-Understanding-Auto-Layout.md)
 - [2. Anatomy of a Constraint](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/2-Anatomy-of-a-Constraint.md)
@@ -121,3 +120,5 @@
 - [Project 1 - Floating Buttons](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/Floatingbuttons): 버튼을 누르면 튀어나오는 3개의 추가 버튼
 - [Project 2 - Social Media Table](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/SocialCell): 인스타그램 타임라인 스타일 셀, 이미지를 탭하면 1:1 비율에서 원래 비율로 변경
 - [Project 3 - Messaging Table](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/Messaging): 메시지 주고 받는 화면
+- Project 4 - Bar Graph
+- Project 5 - Social Media Profile View
