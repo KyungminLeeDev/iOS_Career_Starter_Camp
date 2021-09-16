@@ -9,6 +9,7 @@
 
 - [Projects](#Projects)
 - [Timeline](#Timeline)
+- [개인학습](#개인학습)
 
 ## Projects
 
@@ -90,3 +91,34 @@
 | **2021.04.W5** <br> (26~02) | 📱 **내손은 금손(CoreML)** 2주차 <br> 📝 **TIL** [`월`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210426/) [`화`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210427/) `수` [`목`](https://kyungminleedev.github.io/til/iOSCamp-TIL-20210429/) `금` <br> 🚀 `Design Patterns` [`알쓸신잡: 성장하는 iOS 개발자 되기`](https://kyungminleedev.github.io/notes/iOSCamp-Webinar-BeGrowingDeveloper/) `배포 CI/CD`|
 | **2021.05~** <br> (수료 후) | 🚀 [`CoreML 프로젝트, 궁금증을 파헤쳐보자(전미정)`](https://kyungminleedev.github.io/notes/iOSCamp-Webinar-ML/) |
 
+<br/><br/><br/>
+
+
+
+## 개인학습
+
+### 야곰닷넷 강좌 - [오토레이아웃 정복하기](https://yagom.net/courses/autolayout/)
+
+- [실습 프로젝트](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/AutoLayoutExamples)
+- [1. Understanding Auto Layout](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/1-Understanding-Auto-Layout.md)
+- [2. Anatomy of a Constraint](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/2-Anatomy-of-a-Constraint.md)
+- [3. Working in Interface Builder](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/3-Working-in-Interface-Builder.md)
+- [4. Simple Constraints](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/4-Simple-Constraints.md)
+- [5. Profile View (Challange) - 예제](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/5-Profile-View-Challange.md)
+- [6. Stack Views](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/6-Stack-Views.md)
+- [7. Debugging Auto Layout](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/7-Debugging-Auto-Layout.md)
+- [8. Constraints with Code](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/8-Constraints-with-Code.md)
+- [9. Dynamic Stack View - 예제](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/9-Dynamic-Stack-View.md)
+    - Add 버튼으로 Horizontal 스택 뷰에 뷰 추가, Remove 뷰 삭제, 추가 및 삭제 애니메이션
+- [10. Size Classes](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/10-Size-Classes.md)
+- [11. Safe Area & Layout margins](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/11-Safe-Area-N-Layout-Marigns.md)
+- [12. Working with Scroll Views](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/12-Working-with-Scroll-Views.md)
+- [13. Dynamic Type](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/13-Dynamic-Type.md)
+- [14. Login View (Challange) - 예제](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/LoginViewChallange)
+- [15. Working with Self-Sizing Table View Cells](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/15-Working-with-Self-Sizing-Table-View-Cells.md)
+- [16. Changing Constraints](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/16-Changing-Constraints.md)
+- [Project 1 - Floating Buttons](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/Floatingbuttons): 버튼을 누르면 튀어나오는 3개의 추가 버튼
+- [Project 2 - Social Media Table](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/SocialCell): 인스타그램 타임라인 스타일 셀, 이미지를 탭하면 1:1 비율에서 원래 비율로 변경
+- [Project 3 - Messaging Table](./Personal-Learning/YagomDotNet-Conquer-AutoLayout/Messaging): 메시지 주고 받는 화면
+- Project 4 - Bar Graph
+- Project 5 - Social Media Profile View
