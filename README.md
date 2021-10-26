@@ -8,26 +8,48 @@
 ## Index
 
 - [Projects](#Projects)
+    - [날씨 정보 앱](#날씨-정보-앱)
+    - [회원가입 화면](#회원가입-화면)
+    - [웹 브라우저 앱](#웹-브라우저앱)
 - [Timeline](#Timeline)
 - [개인학습](#개인학습)
 
 ## Projects
 
+### 날씨 정보 앱
+
+[![Repository Badge](http://img.shields.io/badge/Repo-ios--weather--forecast-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-weather-forecast)
+
+| 📺 데모 | 💡 개요 |
+| ------- | ------- |
+| <img src = https://github.com/KyungminLeeDev/ios-weather-forecast/blob/401754ec013ec0bfde3d0f5c209aef5a9acda628/Images/Demo.gif width="300px"> | 🚀  **현재 위치의 날씨 정보를 알려주는 앱** <br><br> 🗓  기간: 2021.09 ~ 2021.10 <br> 📌  사용 언어: `Swift`, 사용 기술: `CoreLocation`, `URLSession` <br><br> 🤩  `HIG` 문서를 통해 `UI` 개선한 경험이 가장 재미있었음 <br> 🔧  `MVC` 패턴을 준수하며 문제점인 `Massive-ViewController` 개선 <br>  📡  `API 통신`을 담당하는 네트워킹 객체의 `재사용`을 고려한 설계 |
+
+<br><br><br>
+
+
+### 회원가입 화면
+
+[![Repository Badge](http://img.shields.io/badge/Repo-ios--signup--flow_-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-signup-flow)
+
+| 📺 데모 | 💡 개요 |
+| :-: | :- |
+| <img src = https://github.com/KyungminLeeDev/ios-signup-flow/blob/1-jacob/Images/SignUpFlow_Demo.gif width="250px"> | 🚀 회원가입하는 절차와 화면 구현 <br> 🧑🏻‍💻 팀 프로젝트: `Jacob`, [`Glenn`](https://github.com/iluxsm) <br> 🗓 진행 기간: 2020.11.30 ~ 12.06 (1주) <br> ⚙️ 기능 <br> &nbsp;&nbsp;&nbsp;&nbsp; `기타 영역 터치 시 키보드 내리기` <br> &nbsp;&nbsp;&nbsp;&nbsp; `다음 텍스트필드로 커서 이동` <br> &nbsp;&nbsp;&nbsp;&nbsp; `사진첩에서 프사 가져오기` <br> &nbsp;&nbsp;&nbsp;&nbsp; `개인 정보 입력 확인` <br> &nbsp;&nbsp;&nbsp;&nbsp; `전화번호 확인` <br> &nbsp;&nbsp;&nbsp;&nbsp; `개인 정보 임시 저장` <br> 📝 학습 키워드 <br> &nbsp;&nbsp;&nbsp;&nbsp; `Navigation Controller` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Text Field` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Text View` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Image Picker` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Date Picker` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Gesture Recognizer` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Singleton` |
+
+<br><br><br>
+
+
+
 ### 웹 브라우저 앱
 
-[![Repository Badge](http://img.shields.io/badge/-ios--web--Browser_👈_Repository에서_자세히_보기-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-web-browser)
+[![Repository Badge](http://img.shields.io/badge/Repo-ios--web--browser-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-web-browser)
 
 | 📺 데모 | 💡 개요 |
 | ------- | ------- |
 | <img src = https://github.com/KyungminLeeDev/ios-web-browser/blob/1-jacob/Images/WebBrowser_Demo.gif width="250px"> | 🚀 Webkit으로 구현한 웹 브라우저 앱 <br> 🧑🏻‍💻 팀 프로젝트: `Jacob`, [`Lina`](https://github.com/lina0322) <br> 🗓 진행 기간: 2020.11.09~15 (1주) <br> ⚙️ 기능 <br> &nbsp;&nbsp;&nbsp;&nbsp; `입력한 주소로 이동` <br> &nbsp;&nbsp;&nbsp;&nbsp; `잘못된 주소는 Alert 표시` <br> &nbsp;&nbsp;&nbsp;&nbsp; `주소에 "https://" 붙이기` <br> &nbsp;&nbsp;&nbsp;&nbsp; `앞/뒤로 가기, 새로 고침` <br> 📝 학습 키워드 <br> &nbsp;&nbsp;&nbsp;&nbsp; `Text Field` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Alert` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Web View` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Toolbar` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Button` <br> &nbsp;&nbsp;&nbsp;&nbsp; `URL` <br> &nbsp;&nbsp;&nbsp;&nbsp; `정규식` |
 
-### 회원가입 화면
+<br><br><br>
 
-[![Repository Badge](http://img.shields.io/badge/-ios--signup--flow_👈_Repository에서_자세히_보기-181717?style=flat&logo=github)](https://github.com/KyungminLeeDev/ios-signup-flow)
 
-| 📺 데모 | 💡 개요 |
-| :-: | :- |
-| <img src = https://github.com/KyungminLeeDev/ios-signup-flow/blob/1-jacob/Images/SignUpFlow_Demo.gif width="250px"> | 🚀 회원가입하는 절차와 화면 구현 <br> 🧑🏻‍💻 팀 프로젝트: `Jacob`, [`Glenn`](https://github.com/iluxsm) <br> 🗓 진행 기간: 2020.11.30 ~ 12.06 (1주) <br> ⚙️ 기능 <br> &nbsp;&nbsp;&nbsp;&nbsp; `기타 영역 터치 시 키보드 내리기` <br> &nbsp;&nbsp;&nbsp;&nbsp; `다음 텍스트필드로 커서 이동` <br> &nbsp;&nbsp;&nbsp;&nbsp; `사진첩에서 프사 가져오기` <br> &nbsp;&nbsp;&nbsp;&nbsp; `개인 정보 입력 확인` <br> &nbsp;&nbsp;&nbsp;&nbsp; `전화번호 확인` <br> &nbsp;&nbsp;&nbsp;&nbsp; `개인 정보 임시 저장` <br> 📝 학습 키워드 <br> &nbsp;&nbsp;&nbsp;&nbsp; `Navigation Controller` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Text Field` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Text View` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Image Picker` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Date Picker` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Gesture Recognizer` <br> &nbsp;&nbsp;&nbsp;&nbsp; `Singleton` |
 
 ### 은행 창구 매니저
 - 은행 창구 운영 시뮬레이터  
@@ -56,6 +78,8 @@
 ### 내손은 금손
 - 내 그림이 무슨 도형인지 CoreML로 판별하는 앱  
 - `개인`
+
+<br><br><br>
 
 
 
